@@ -1,11 +1,11 @@
 Consumer Shopping Behaviour Analysis for Sales & Marketing Optimization
-📌 Project Overview
+** Project Overview
 
 This project analyzes consumer shopping behavior using Python (Pandas), MySQL, and Power BI to uncover insights that help improve sales strategy, customer engagement, and marketing performance.
 
 The goal is to transform raw survey data into meaningful business insights through data cleaning, feature engineering, SQL analysis, and interactive dashboard visualization.
 
-🛠 Tools & Technologies Used
+** Tools & Technologies Used
 
 Python (Pandas, NumPy)
 
@@ -15,8 +15,8 @@ Power BI
 
 Git & GitHub
 
-📂 Project Workflow
-1️⃣ Data Cleaning (Python – Pandas)
+** Project Workflow
+1. Data Cleaning (Python – Pandas)
 
 Cleaned timestamp & extracted Date, Day, Time
 
@@ -36,7 +36,7 @@ Age Groups
 
 Normalized purchase categories
 
-2️⃣ Database Integration (MySQL)
+2. Database Integration (MySQL)
 
 Connected cleaned dataset to MySQL
 
@@ -64,7 +64,7 @@ Cart completion behavior
 
 Satisfaction trends
 
-3️⃣ Power BI Dashboard
+3. Power BI Dashboard
 
 Built a professional interactive dashboard including:
 
@@ -98,7 +98,7 @@ Purchase Frequency
 
 Date
 
-📊 Key Business Insights
+** Key Business Insights
 
 Identified high-value frequent buyers
 
@@ -110,7 +110,7 @@ Found top-performing purchase categories
 
 Compared satisfaction across demographics
 
-📈 Business Impact
+** Business Impact
 
 This analysis helps businesses:
 
@@ -124,16 +124,11 @@ Improve customer satisfaction
 
 Focus on high-performing product categories
 
-📷 Dashboard Preview
-
-(Add screenshot here)
-
-🚀 Author
+**** Author
 
 Subhashree Manna
 Aspiring Data Analyst
 
 
-Done ✅
 
-If you want, I can also give you a more advanced “top 1% GitHub profile level” version 😉
+
